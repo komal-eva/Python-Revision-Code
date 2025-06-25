@@ -89,3 +89,49 @@ try:
     x = 1 / 0
 except ZeroDivisionError:
     print("Can't divide by zero!")
+
+
+
+#Output of the above code :
+HELLO WORLD
+a+b
+92
+<class 'int'>
+KOMALKUMARI KOMALKUMARI KOMALKUMARI KOMALKUMARI KOMALKUMARI KOMALKUMARI KOMALKUMARI 
+[1, 2, 3, 4, 5, 6, 7]
+[1, 2, 3, 4, 9, 6, 7]
+(27, 14, 3, 29, 10)
+<class 'tuple'>
+<class 'list'>
+<class 'str'>
+HELLO WORLD
+a+b
+92
+<class 'int'>
+KOMALKUMARI KOMALKUMARI KOMALKUMARI KOMALKUMARI KOMALKUMARI KOMALKUMARI KOMALKUMARI 
+[1, 2, 3, 4, 5, 6, 7]
+[1, 2, 3, 4, 9, 6, 7]
+(27, 14, 3, 29, 10)
+<class 'tuple'>
+<class 'list'>
+<class 'str'>
+{1: 'Komal', 2: 'Kajal', 3: 'Prince', 4: 'Nitu'}
+<class 'dict'>
+{1: 'Komal', 2: 'Kajal', 3: 'Prince', 4: 'Nitu', 5: 'Devanand'}
+27 is odd
+Current number (for loop): 1
+Current number (for loop): 2
+Current number (for loop): 3
+Current number (for loop): 4
+Current number (for loop): 6
+Current number (for loop): 7
+Current number (for loop): 8
+Current number (for loop): 9
+Current number (for loop): 10
+Current number (while loop): 1
+Current number (while loop): 2
+Current number (while loop): 3
+Stopping at 4
+Grade: B
+Hello, Komal
+Can't divide by zero!
